@@ -1,0 +1,150 @@
+[
+    {
+      "name": "Middlemarch",
+      "author": "George Eliot"
+    },
+    {
+      "name": "El hombre invisible",
+      "author": "Ralph Ellison"
+    },
+    {
+      "name": "Medea",
+      "author": "Eurípides"
+    },
+    {
+      "name": "¡Absalom, Absalom!",
+      "author": "William Faulkner "
+    },
+    {
+      "name": "El ruido y la furia",
+      "author": "William Faulkner "
+    },
+    {
+      "name": "Madame Bovary",
+      "author": "Gustave Flaubert"
+    },
+    {
+      "name": "La educación sentimental",
+      "author": "Gustave Flaubert"
+    },
+    {
+      "name": "Romancero gitano",
+      "author": "Federico García Lorca"
+    },
+    {
+      "name": "Cien años de soledad",
+      "author": "Gabriel García Márquez "
+    },
+    {
+      "name": "El amor en los tiempos del cólera",
+      "author": "Gabriel García Márquez "
+    },
+    {
+      "name": "Poema de Gilgamesh",
+      "author": "Anónimo"
+    },
+    {
+      "name": "Libro de Job (de la Biblia)",
+      "author": "Moisés"
+    },
+    {
+      "name": "Las mil y una noches",
+      "author": "Anónimo"
+    },
+    {
+      "name": "Saga de Njál",
+      "author": "Anónimo"
+    },
+    {
+      "name": "Todo se desmorona",
+      "author": "Chinua Achebe"
+    },
+    {
+      "name": "Cuentos infantiles",
+      "author": "Hans Christian Andersen"
+    },
+    {
+      "name": "Divina comedia",
+      "author": "Dante Alighieri"
+    },
+    {
+      "name": "Orgullo y prejuicio",
+      "author": "Jane Austen"
+    },
+    {
+      "name": "Papá Goriot",
+      "author": "Honoré de Balzac"
+    },
+    {
+      "name": "Molloy, Malone muere, El Innombrable, una trilogía",
+      "author": "Samuel Beckett "
+    },
+    {
+      "name": "Decamerón",
+      "author": "Giovanni Boccaccio"
+    },
+    {
+      "name": "Ficciones",
+      "author": "Jorge Luis Borges"
+    },
+    {
+      "name": "Cumbres Borrascosas",
+      "author": "Emily Brontë"
+    },
+    {
+      "name": "El extranjero",
+      "author": "Albert Camus "
+    },
+    {
+      "name": "Poemas",
+      "author": "Paul Celan"
+    },
+    {
+      "name": "Viaje al fin de la noche",
+      "author": "Louis-Ferdinand Céline"
+    },
+    {
+      "name": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes"
+    },
+    {
+      "name": "Los cuentos de Canterbury",
+      "author": "Geoffrey Chaucer"
+    },
+    {
+      "name": "Relatos cortos",
+      "author": "Antón Chéjov"
+    },
+    {
+      "name": "Nostromo",
+      "author": "Joseph Conrad"
+    },
+    {
+      "name": "Grandes Esperanzas",
+      "author": "Charles Dickens"
+    },
+    {
+      "name": "Jacques el fatalista",
+      "author": "Denis Diderot"
+    },
+    {
+      "name": "Berlin Alexanderplatz",
+      "author": "Alfred Döblin"
+    },
+    {
+      "name": "Crimen y castigo",
+      "author": "Fiódor Dostoievski"
+    },
+    {
+      "name": "El idiota",
+      "author": "Fiódor Dostoievski"
+    },
+    {
+      "name": "Los endemoniados",
+      "author": "Fiódor Dostoievski"
+    },
+    {
+      "name": "Los hermanos Karamazov",
+      "author": "Fiódor Dostoievski"
+    }
+  ]
