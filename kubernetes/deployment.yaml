@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-redis-app
-        image: proyectolibreria.azurecr.io/library-custom-api:latest
+        image: proyectolibreria.azurecr.io/library-custom-api
         ports:
         - containerPort: 4000
 ---
